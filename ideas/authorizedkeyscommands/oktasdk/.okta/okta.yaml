@@ -1,0 +1,10 @@
+okta:
+  client:
+    connectionTimeout: 30 # seconds
+    orgUrl: "https://OKTADOMAIN.okta.com"
+    proxy:
+      port: null
+      host: null
+      username: null
+      password: null
+    token: YOUROKTAAPITOKEN
